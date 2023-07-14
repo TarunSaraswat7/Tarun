@@ -1,2 +1,2 @@
 # Tarun
-# These are my internship projects.
+ These are my internship projects.
